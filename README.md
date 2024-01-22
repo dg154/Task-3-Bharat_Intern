@@ -1,2 +1,2 @@
-# Task-3-Bharat_Intern
-Develop an image classification model to distinguish between images of cats and dogs using data science techniques in Python.
+# Bharat-Intern-Data-Science-Task-2
+Successfully performed a comprehensive project on Titanic classification, employing data science methodologies to analyze and predict survival outcomes based on the available dataset. This project encompassed data exploration, feature engineering, model building, and predictive analysis.
